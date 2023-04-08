@@ -51,6 +51,8 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramgorle&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abhiramgorle" height="192px"/>
+	  <br/>
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramgorle&theme=algolia&hide_border=true" alt="abhiramgorle" height="192px"/>
   <br/>
   </p>
 </details>

@@ -43,19 +43,19 @@
   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
   
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <h2><b>💻 GitHub Profile Stats</b></h2>
   <br/>
   <p align="center">
     <a href="https://github.com/abhiramgorle/github-readme-stats"><img alt="Abhiram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhiramgorle&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+</p>
   &nbsp;
+<p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiramgorle&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abhiramgorle" height="192px"/>
-	  <br/>
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramgorle&theme=algolia&hide_border=true" alt="abhiramgorle" height="192px"/>
+</p>
+<p align="center">
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramgorle&theme=algolia" alt="abhiramgorle" height="192px"/>
   <br/>
   </p>
-</details>
 
   
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">

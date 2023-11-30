@@ -12,7 +12,7 @@
 - 👋 Hi, I’m Abhiram
 - 💼 I'm a CS Student at GITAM,Vizag
 - 💬 Talk to me about Front-End Deveopement and Data Science
-- 👯 I’m looking to collaborate on backend software engineering projects
+- 👯 I’m looking to collaborate on software engineering projects
   
 
   
@@ -35,12 +35,13 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 - **Frameworks & Libraries** :
   
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/react-black?logo=react&style=for-the-badge" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt = "AngularJS" />
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
   
   <h2><b>💻 GitHub Profile Stats</b></h2>

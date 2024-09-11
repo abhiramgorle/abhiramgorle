@@ -10,8 +10,8 @@
 
   
 - 👋 Hi, I’m Abhiram
-- 💼 I'm a CS Student at GITAM,Vizag
-- 💬 Talk to me about Front-End Deveopement and Data Science
+- 💼 I'm a MS in CS Student at The University of Florida.
+- 💬 Talk to me about Full-Stack Deveopement and Data Science
 - 👯 I’m looking to collaborate on software engineering projects
   
 

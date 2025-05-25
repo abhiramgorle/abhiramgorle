@@ -11,7 +11,7 @@
   
 - 👋 Hi, I’m Abhiram
 - 💼 I'm a MS in CS Student at The University of Florida.
-- 💬 Talk to me about Full-Stack Deveopement and Data Science
+- 💬 Talk to me about Full-Stack Deveopement and Computer Vision
 - 👯 I’m looking to collaborate on software engineering projects
   
 
@@ -72,8 +72,8 @@
 <br>
 
 <li>
-<a href="mailto:dgorle@gitam.in" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dgorle@gitam.in-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:abhiramgorle6@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  abhiramgorle6@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
